@@ -6,5 +6,5 @@ print(amzn.dtypes)
 print(amzn)
 
 #print(amzn['High'])
-#amzn.plot()
-#plt.show()
+amzn.plot()
+plt.show()
